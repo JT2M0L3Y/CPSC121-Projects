@@ -1,0 +1,34 @@
+Driver: Trucky McTruckerson
+Store: Pet Emporium
+Number of packages: 6
+Package Information
+___________________
+Package Id: 7584
+Package Weight: 7.02
+Package Dimensions: 10x4x5
+
+Package Id: 4321
+Package Weight: 2.23
+Package Dimensions: 3x2x5
+
+Package Id: 5559
+Package Weight: 5.91
+Package Dimensions: 1x2x1
+
+Package Id: 9001
+Package Weight: 19.25
+Package Dimensions: 7x7x2
+
+Package Id: 4242
+Package Weight: 3.14
+Package Dimensions: 1x5x8
+
+Package Id: 33113
+Package Weight: 0.86
+Package Dimensions: 1x1x1
+
+Package Stats
+_____________
+Id of heaviest package: 9001
+Weight of heaviest package: 19.25
+Average weight of packages on the truck: 6.40
