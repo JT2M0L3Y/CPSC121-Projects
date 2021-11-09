@@ -1,0 +1,12 @@
+Store: Fur Get Me Not
+Number of Pets: 4
+
+Pet Information Summary Statistics:
+___________________________________
+Count of each animal:
+Cat - 2, Dog - 1, Pig - 1, Other - 0
+Most days on site: 32
+Fewest days on site: 1
+Average days on site: 15
+
+Pet store list was last modified on 
